@@ -106,7 +106,7 @@ Step 6 — Explainability bundle
 
 ### Mode 2 — Agentic LLM Pipeline (`CodeVerificationAgent`)
 
-An LLM-powered pipeline with three specialised sub-agents reasoning over the same tool outputs. Supports **Ollama** (default, `qwen2.5-coder`), **OpenAI** (`gpt-4o-mini`), and **Anthropic** (`claude-3-haiku`).
+An LLM-powered pipeline with three specialised sub-agents reasoning over the same tool outputs. Supports **Ollama** (default, `qwen3.5`), **OpenAI** (`gpt-5.4`), and **Anthropic** (`claude-4.6-sonnet`).
 
 ```
 Step 1 — Ingest submission (same as Mode 1)
